@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRUD Students & Pets (FastAPI)
 
 Proyecto FastAPI que implementa un **CRUD** para la entidad `Student` y sus `Pet`, con **almacenamiento en memoria** a través de repositorios respaldados por diccionarios. Los datos viven mientras el proceso esté corriendo.
@@ -232,3 +233,6 @@ La aplicación queda disponible en:
 - `make format` — formatea el código con Ruff
 - `make format-check` — verifica el formato
 - `make clean` — elimina `.venv`, cachés y artefactos
+=======
+# Taller-backend-2
+>>>>>>> a08883930ba54d04817bc35d9e0eaff624dcc4d9
